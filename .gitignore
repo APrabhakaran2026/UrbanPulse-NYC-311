@@ -1,0 +1,19 @@
+# Python virtual environment
+urban_pulse_312/
+venv/
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Data files
+raw_311_data.csv
+cleaned_311_data.csv
+urbanpulse_dev_1000.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
